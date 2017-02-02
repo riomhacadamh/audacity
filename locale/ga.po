@@ -10,8 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: audacity-translation@lists.sourceforge.net\n"
 "POT-Creation-Date: 2016-11-21 10:44+0000\n"
 "PO-Revision-Date: 2005-11-08 10:53-0000\n"
-"Last-Translator: Riarthóir <micilsheainmhicil@eircom.net>\n"
-"Language-Team: Mícheál Mac Lochlainn <micilsheainmhicil@eircom.net>\n"
+"Last-Translator: Riarthóir <michealomeachair@gmail.com>\n"
+"Language-Team: Mícheál Ó Meachair <michealomeachair@gmail.com>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-1\n"
@@ -95,11 +95,11 @@ msgstr "Roghnaigh"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:756
 msgid "&Find...\tCtrl+F"
-msgstr ""
+msgstr "&Aimsigh... \tCtrl+F"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:759
 msgid "&Matching Paren\tF8"
-msgstr ""
+msgstr "&Meaitseáil Lúibíní\tF8"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:760
 msgid "&Top S-expr\tF9"
